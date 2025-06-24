@@ -8,3 +8,17 @@
     padding: 10px;
     width: 25%;
 }
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .producto {
+    border: 1px solid #ccc;
+    padding: 16px;
+    width: 250px;
+    text-align: center;
+  }
+  
